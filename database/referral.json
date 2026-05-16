@@ -1,0 +1,274 @@
+{
+  "1058804764": {
+    "invited": [
+      "7672559319"
+    ],
+    "bonusChecks": 5,
+    "totalInvited": 5
+  },
+  "1860883643": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "8533948592": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "6915520273": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "8337133110": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "6598277525": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "7575136006": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "8031977477": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "7214437193": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "8396384015": {
+    "invited": [
+      "6815446368"
+    ],
+    "bonusChecks": 3,
+    "totalInvited": 5
+  },
+  "8550214984": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "8396384015"
+  },
+  "8477553361": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "8396384015"
+  },
+  "6815446368": {
+    "invited": [
+      "8425285509",
+      "6814299327"
+    ],
+    "bonusChecks": 10,
+    "totalInvited": 10,
+    "referredBy": "8396384015"
+  },
+  "8425285509": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "6815446368"
+  },
+  "7913127127": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "7672559319": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "1058804764"
+  },
+  "6814299327": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "6815446368"
+  },
+  "8471608367": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "6695043948": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "8538723253": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "6876331554": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "8248848518": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "7345716549": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "5565939937": {
+    "invited": [
+      "7952027682"
+    ],
+    "bonusChecks": 2,
+    "totalInvited": 5
+  },
+  "7091341919": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "8455721335": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "5958220661": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "6006654332": {
+    "invited": [
+      "8552759498",
+      "8319909523"
+    ],
+    "bonusChecks": 0,
+    "totalInvited": 10
+  },
+  "8552759498": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "6006654332"
+  },
+  "6742086334": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "6259954205": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "5937606497": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "7315448632": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "7952027682": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "5565939937"
+  },
+  "8253975121": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "8319909523": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "6006654332"
+  },
+  "8358398350": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "8552765707": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "7453587730": {
+    "invited": [
+      "8490275449",
+      "6324900045",
+      "8245673882",
+      "7511061771",
+      "8592142360"
+    ],
+    "bonusChecks": 22,
+    "totalInvited": 25
+  },
+  "8490275449": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "7453587730"
+  },
+  "6324900045": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "7453587730"
+  },
+  "8245673882": {
+    "invited": [
+      "8203369302",
+      "8534787615"
+    ],
+    "bonusChecks": 10,
+    "totalInvited": 10,
+    "referredBy": "7453587730"
+  },
+  "7511061771": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "7453587730"
+  },
+  "8203369302": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "8245673882"
+  },
+  "7313166199": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0
+  },
+  "8592142360": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "7453587730"
+  },
+  "8534787615": {
+    "invited": [],
+    "bonusChecks": 0,
+    "totalInvited": 0,
+    "referredBy": "8245673882"
+  }
+}
